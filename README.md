@@ -41,7 +41,7 @@ The goal of this project is to automate the traditional attendance method, which
 - Run **``` python manage.py migrate ```**
 - Run **``` python manage.py runserver ```** and follow the link generated to run the project
  
-**To access the admin functionalities**
+**To access the admin functionalities: <br>**
 After running the project you can access all functionalities meant for employees. To access the admin account:
 - Go to the [address](http://127.0.0.1:8000/admin/) and login with your superuser credentials
 - Go to the Users model->admin username
