@@ -50,6 +50,6 @@ After running the project you can access all functionalities meant for employees
 ## Future Scope
 1. For offices which need high security, an intruder alert can be incorporated in the project, so that an alert is given to the security whenever an unknown face is detected by the system.
 2. The training time can be reduced by retraining the classifier only for the newly added images.
-3. A feature can be added such an employee is automatically notified if his attendance or working hours are less than what is required .
+3. A feature can be added such that an employee is automatically notified if his attendance or working hours are less than what is required .
 
 **Thank You**
